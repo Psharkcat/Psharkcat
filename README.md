@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Psharkcat
 - 👀 I’m interested in Game development 
-- 🌱 I’m currently learning GDscript and c++
+- 🌱 I’m currently learning GDscript and c
 - 😄 Pronouns: He/him
 
 <!---
